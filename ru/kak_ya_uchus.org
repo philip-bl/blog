@@ -82,18 +82,22 @@ Learn]].
 
 [[../files/anki_example_note_lengths.png]]
 *** Прочее
-Английский язык.
+Английский язык:
+
 [[../files/anki_example_english.png]]
 
 Танцевальное движение.
 По возможности я делаю его физически, при невозможности могу
 нажать отложить карточку на потом.
+
 [[../files/anki_example_dancing.png]]
 
-Греческий алфавит.
+Греческий алфавит:
+
 [[../files/anki_example_greek.png]]
 
-Сочетание кнопок в Emacs.
+Сочетание кнопок в Emacs:
+
 [[../files/anki_example_hotkey.png]]
 
 ** Минусы
