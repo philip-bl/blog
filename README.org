@@ -1,2 +1,4 @@
+* Posts in English
+- [[en/why_take_notes.org][Why take notes]]
 * Posts in Russian
 - [[ru/kak_ya_uchus.org][Как я учусь]]
