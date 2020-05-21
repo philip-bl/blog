@@ -1,0 +1,65 @@
+* Why take notes
+
+** Introduction
+
+I've been fond of notetaking for approximately the last 4 years. Notetaking systems I've used
+extensively are:
+
+- [[https://workflowy.com][Workflowy]]. You'll probably notice that I love hierarchical lists.
+- [[https://apps.ankiweb.net][Anki]]. Yes, I used it not only for spaced repetition, but also as poor man's knowledge base.
+- Paper notebooks. One notebook per mathematical subject.
+- [[https://orgmode.org/][Emacs org-mode]]
+
+Right now I am trying the latest rationalist fad - [[https://www.greaterwrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1][Zettelkasten using paper]]. I like it, but it's far from ideal, so
+yesterday I've been thinking about what else I could try and how I should choose a notetaking
+system. This document is me writing down those thoughts as a blog post.
+
+** What I get or hope to get from notetaking
+
+Here goes my list of ways how notetaking can improve my life. Each item has importance assigned
+from /low/ to /very high/.
+
+- It facilitates thinking useful thoughts. This has two components.
+  + For me it's nigh impossible to think a long and complicated thought without an extension of
+    my working memory in the form of paper, whiteboard, or a computer with a text editor. For
+    some magical reason ("habits" is my best hypothesis) this works much better for me with
+    paper than with a computer. If I need to think about something complicated, I put a sheet
+    of paper on the table, take a pencil and start writing my thoughts. Notice that it's not
+    necessary to even keep notes for this effect to work. Although knowing that the note will
+    go into my knowledge base gives me motivation to write it. /importance: very high/
+  + Finding useful connections between notes by linking. This is what zettelkasten is all
+    about. I am actually not sure if this is important. But it might be, and right now I want
+    to try Zettelkasten for real, so I am rating it as /importance: high/
+- Knowledge base. I.e. having quick access in the future to knowledge I write down today in a
+  form which will be easy for me to understand. For example, yesterday I forgot how integration
+  by parts works. I went to the [[https://en.wikipedia.org/wiki/Integration_by_parts][wikipedia]] but $\int u dv = uv - \int v du$ is not how I've
+  learned it. So I looked up my anki card about it and found $(f \cdot g)' = f' g + f g'$,
+  which is much more intuitive for me. So, my notes, by the virtue of being mine, are tailor
+  made for me. /importance: high/
+- It improves my memorization. /importance: medium/
+  + There is a bunch of research showing that writing things down when studying improved
+    memorization. Most of that research focuses on writing things by hand. I don't buy
+    into the premise that precise muscle movements which happen when writing by hand
+    is the important thing here, I think it's mainly the act of thinking about the thing that
+    much more thoroughly, maybe with something else. So I don't think handwriting is much
+    better at this than writing on the computer.
+  + Hopefully a good knowledge base will show you useful notes you made in the past, and this
+    will work as kinda [[http://www.gwern.net/Spaced%20repetition][spaced repetition]].
+
+- Being able to free up my working memory because I know I won't forget about important
+  things - my notetaking system will remind me of them. This is one of the important
+  considerations behind David Allen's "Getting things done" method. I think this is useful not
+  only for remembering to do your todos. Also, if I know I've written down this very important
+  thought I am having in my notetaking system where it probably won't get lost and completely
+  forgotten, I can go to sleep now rather than frantically trying to finish thinking about it
+  now. The part about being able to go to sleep seems extremely plausible, while the part about
+  freeing up the working memory seems just plausible (25% of actually working like that, since
+  by default I consider all psychological theories to be false). I haven't specifically seeked
+  research about the working memory component. Would be glad if someone sent my a summarization
+  or a meta analysis. /importance: medium/
+- It facilitates writing blog posts. Having a blog is useful for signaling
+  intelligence and other good things. In this regard, computer based notetaking systems win,
+  because copy pasting text is much easier than typing it all over. /importance: medium/
+- A notetaking system can also be a todo system. Todo systems allow me not to forget important
+  things which I need to do. But it's trivial to use google calendar or something like that for
+  todos instead, so I am marking this as /importance: low/
