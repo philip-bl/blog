@@ -32,8 +32,8 @@ from /low/ to /very high/.
     to try Zettelkasten for real, so I am rating it as /importance: high/
 - Knowledge base. I.e. having quick access in the future to knowledge I write down today in a
   form which will be easy for me to understand. For example, yesterday I forgot how integration
-  by parts works. I went to the [[https://en.wikipedia.org/wiki/Integration_by_parts][wikipedia]] but $\int u dv = uv - \int v du$ is not how I've
-  learned it. So I looked up my anki card about it and found $(f \cdot g)' = f' g + f g'$,
+  by parts works. I went to the [[https://en.wikipedia.org/wiki/Integration_by_parts][wikipedia]] but ∫u dv = uv - ∫v du is not how I've
+  learned it. So I looked up my anki card about it and found (f ⋅ g)' = f' ⋅ g + f ⋅ g',
   which is much more intuitive for me. So, my notes, by the virtue of being mine, are tailor
   made for me. /importance: high/
 - It improves my memorization. /importance: medium/
