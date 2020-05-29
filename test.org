@@ -1,9 +1,0 @@
-* This is a heading
-** Hello world
-
-Blah blah BLAAAH!
-
-#+BEGIN_QUOTE
-Use force, harry. May it be with you. - Dumbledore the Grey
-#+END_QUOTE
-
