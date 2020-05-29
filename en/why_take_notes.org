@@ -6,11 +6,11 @@ I've been fond of notetaking for approximately the last 4 years. Notetaking syst
 extensively are:
 
 - [[https://workflowy.com][Workflowy]]. You'll probably notice that I love hierarchical lists.
-- [[https://apps.ankiweb.net][Anki]]. Yes, I used it not only for spaced repetition, but also as a poor man's knowledge base.
+- [[https://apps.ankiweb.net][Anki]]. Yes, I used it not only for spaced repetition but also as a poor man's knowledge base.
 - Paper notebooks. One notebook per mathematical subject.
 - [[https://orgmode.org/][Emacs org-mode]]
 
-Right now I am trying the latest rationalist fad - [[https://www.greaterwrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1][Zettelkasten using paper]]. I like it, but it's far from ideal, so
+Right now, I am trying the latest rationalist fad - [[https://www.greaterwrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1][Zettelkasten using paper]]. I like it, but it's far from ideal, so
 yesterday I've been thinking about what else I could try and how I should choose a notetaking
 system. This document is me writing down those thoughts as a blog post.
 
@@ -20,9 +20,9 @@ Here goes my list of ways how notetaking can improve my life. Each item has impo
 from /low/ to /very high/.
 
 - It facilitates thinking useful thoughts. This has two components.
-  + For me it's nigh impossible to think a long and complicated thought without an extension of
+  + For me, it's nigh impossible to think a long and complicated thought without an extension of
     my working memory in the form of paper, whiteboard, or a computer with a text editor. For
-    some magical reason ("habits" and absence distractions are my best hypotheses)
+    some magical reason ("habits" and absence distractions are my best hypotheses),
     this works much better for me with
     paper than with a computer. My best hypotheses for why this is the case are: due to habits
     I am used to thinking on paper and not getting distracted, and due to other habits I get
@@ -31,24 +31,24 @@ from /low/ to /very high/.
     If I need to think about something complicated, I put a sheet
     of paper on the table, take a pencil and start writing my thoughts. Notice that it's not
     necessary to even keep notes for this effect to work. Although knowing that the note will
-    go into my knowledge base gives me motivation to write it. /importance: very high/
+    go into my knowledge base gives me the motivation to write it. /importance: very high/
   + Finding useful connections between notes by linking. This is what zettelkasten is all
     about. I am actually not sure if this is important. But it might be, and right now I want
     to try Zettelkasten for real, so I am rating it as /importance: high/
-- Knowledge base. I.e. having quick access in the future to knowledge I write down today in a
-  form which will be easy for me to understand. For example, yesterday I forgot how integration
-  by parts works. I went to the [[https://en.wikipedia.org/wiki/Integration_by_parts][wikipedia]] but ∫u dv = uv - ∫v du is not how I've
-  learned it. So I looked it up in my anki and found (f ⋅ g)' = f' ⋅ g + f ⋅ g',
-  which is much more intuitive for me. So, my notes, by the virtue of being mine, are tailor
-  made for me. /importance: high/
+- Knowledge base. I.e., having quick access in the future to the knowledge I write down today in a
+  form which will be easy for me to understand. For example, yesterday, I forgot how integration
+  by parts works. I went to [[https://en.wikipedia.org/wiki/Integration_by_parts][Wikipedia]], but ∫u dv = uv - ∫v du is not how I've
+  learned it. So I looked it up in my Anki and found (f ⋅ g)' = f' ⋅ g + f ⋅ g',
+  which is much more intuitive for me. So, my notes, by virtue of being mine, are tailor-made
+  for me. /importance: high/
 - It improves my memorization. /importance: medium/
   + There is a bunch of research showing that writing things down when studying improved
     memorization. Most of that research focuses on writing things by hand. I don't buy
     into the premise that precise muscle movements which happen when writing by hand
-    is the important thing here, I think it's mainly the act of thinking about the thing that
+    are the important thing here, I think it's mainly the act of thinking about the thing that
     much more thoroughly, maybe with something else. So I don't think handwriting is much
     better at this than writing on the computer.
-  + Hopefully a good knowledge base will show me useful notes I made in the past, and this
+  + Hopefully, a good knowledge base will show me useful notes I made in the past, and this
     will work as kinda [[http://www.gwern.net/Spaced%20repetition][spaced repetition]].
 - Being able to free up my working memory because I know I won't forget about important
   things - my notetaking system will remind me of them. This is one of the important
@@ -59,14 +59,14 @@ from /low/ to /very high/.
   now. The part about being able to go to sleep seems extremely plausible, while the part about
   freeing up the working memory seems somewhat plausible (25% probability
   of actually working like that, since
-  by default I consider all psychological theories to be false). I haven't specifically seeked
-  research about the working memory component. Would be glad if someone sent my a summarization
-  or a meta analysis. /importance: medium/
+  by default, I consider all psychological theories to be false). I haven't specifically sought
+  research about the working memory component. Please send me a summarization
+  or a meta-analysis if you know one. /importance: medium/
 - It facilitates writing blog posts. Having a blog is useful for signaling
-  intelligence and other good things. In this regard, computer based notetaking systems win,
-  because copy pasting text is much easier than typing it while looking at my paper notes.
+  intelligence and other good things. In this regard, computer-based notetaking systems win,
+  because copy-pasting text is much easier than typing it while looking at my paper notes.
   /importance: medium/
-- A notetaking system can also be a todo system. Todo systems allow me not to forget important
+- A notetaking system can also be a todo system. Todo systems allow me not to forget the important
   things which I need to do. But it's trivial to use google calendar or something like that for
   todos instead, so I am marking this as /importance: low/
 
@@ -79,50 +79,50 @@ compare different notetaking systems. They aren't all absolutely critical.
 - Quick adding new notes and editing existing notes
 - Low cognitive burden of using the system. After getting used to it, at least.
 - Future-proof. It should be easy to switch from this system to another one and keep the
-  notes. The system shouldn't suddenly stop working (for example because the creator
+  notes. The system shouldn't suddenly stop working (for example, because the creator
   went bankrupt). The system should work on different platforms I might use in the future
   (e.g. on Windows computers with restricted software installation if my future employer forces
   me to use one).
 - I should be able to take the system with me. So, having an Android program would be nice.
-- I should be able to use it comfortably not only behind my table (for example if it's
-  difficult to use the notetaking program on small laptop screen), but just about
-  anywhere. This characteristic is probably not important for many people, but for me sitting all day long
+- I should be able to use it comfortably not only behind my table (for example, if it's
+  difficult to use the notetaking program on a small laptop screen) but just about
+  anywhere. This characteristic is probably not important for many people, but for me, sitting all day long
   behind a table causes back pain.
 - Using the system should feel nice.
 - It should be easy to put brain dump notes in the system if I decide that I want them there.
 - If it's software, it should be customizable.
 - If it's software, it should be unable or unlikely to access my system, other files, etc. and
-  use them in ways which are bad for me.
+  use them in ways that are bad for me.
 - Other people shouldn't be able or should be unlikely to read my notes stored in the system.
 
 ** Notetaking systems I might want to try and what characteristics they have
 
 The 4 notetaking systems I might want to use are
-- [[https://www.greaterwrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1][Paper zettelkasten]]. So far I've been using it for 2 months.
+- [[https://www.greaterwrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1][Paper zettelkasten]]. So far, I've been using it for 2 months.
 - [[https://roamresearch.com][Roam]]. I've tried it for about 10 days and moderately liked it. Mostly I disliked that it's in
   the browser, that it's not free open source, and that it had a problem with keeping users'
   notes private.
-- [[https://github.com/jethrokuan/org-roam][Org-roam]] is a plugin for [[https://orgmode.org/][Emacs org-mode]]. I've tried using it for about a month and it was
-  painful. Before this I've been using just Emacs org-mode for 3 years.
-- [[https://giffmex.org/stroll/stroll.html][Stroll]] - a roam-like experience in TiddlyWiki. TiddlyWiki is one big HTML file which you're
-  suppposed to take everywhere. It contains both your notes and the software. So it works in
-  the browser, you keep the file on your computer, open it, and it self modifies when you write
-  something. I haven't tried stroll yet.
+- [[https://github.com/jethrokuan/org-roam][Org-roam]] is a plugin for [[https://orgmode.org/][Emacs org-mode]]. I've tried using it for about a month, and it was
+  painful. Before this, I've been using just Emacs org-mode for 3 years.
+- [[https://giffmex.org/stroll/stroll.html][Stroll]] - a roam-like experience in TiddlyWiki. TiddlyWiki is one big HTML file that you're
+  suppposed to take everywhere with you. It contains both your notes and the software. So it works in
+  the browser, you keep the file on your computer, open it, and it self-modifies when you write
+  something. I haven't tried Stroll yet.
 
 Other notable notetaking systems I might consider in the future but which I don't want to
 analyze now are:
 - [[https://obsidian.md/][Obsidian]] - something like roam, using markdown, but in a desktop program.
-- [[https://zettlr.com][Zettlr]] - another roam-like markdown using program
-- [[https://notebag.app][Notebag]] - another roam-like markdown using program
-- Ipad pro plus some fancy app for handwritten notes. What can I say, I like handwriting.
+- [[https://zettlr.com][Zettlr]] - another roam-like markdown-using program.
+- [[https://notebag.app][Notebag]] - another roam-like markdown-using program.
+- Ipad pro plus a fancy app for taking handwritten notes. What can I say, I like handwriting.
 
 *** The table
 
 Here I list some notetaking systems I want to try (or have already tried but want to give them
-another chance) as rows of a table. Columns are desiderata. The desiderata are mentioned in the previous section but they
-don't map one to one and not all of those desiderata are present as columns here. I rate each
-desideratum from 1 (high importance) to to -1 (low importance). Each cell contains a rating of how
-well the notetaking system satisfies the desideratum from 2 to -2 or it contains a range like
+another chance) as rows of a table. Columns are desiderata. The desiderata are mentioned in the previous section, but they
+don't map one to one, and not all of those desiderata are present as columns here. I rate each
+desideratum from 1 (high importance) to -1 (low importance). Each cell contains a rating of how
+well the notetaking system satisfies the desideratum from 2 to -2. Or it contains a range like
 [-1, 2] if I am not sure and I think it can be anywhere
 from -1 (inclusive) to 2 (inclusive).
 
@@ -136,35 +136,35 @@ from -1 (inclusive) to 2 (inclusive).
 
 *** Why these systems have these ratings
 - Facilitates thoughts by magic :: this is about me being used to thinking using a piece of
-  paper. Also this is about how much cognitive load there is when using a piece of software.
-  + Paper clearly wins for me
-  + Stroll and Roam get penalized because they work in browser, and that means I'll be easily
-    distracted. However roam is easy and pleasant to use.
+  paper. Also, this is about how much cognitive load there is when using a piece of software.
+  + Paper clearly wins for me.
+  + Stroll and Roam get penalized because they work in the browser, and that means I'll be easily
+    distracted. However, roam is easy and pleasant to use.
   + Org-roam adds too much cognitive load, but perhaps that can be fixed.
 - Facilitates thoughts by linking :: this is the feature zettelkasten is famous for.
   + Graph and backlinks in org-roam suck.
-  + In stroll backlinks pane works well but the graph is probably not as nice as in Roam.
+  + In Stroll, the backlinks pane works well, but the graph is probably not as nice as in Roam.
   + On paper looking at linked things is not very easy.
-- Easy adding :: This is about quickness and cognitive burden of adding a new note.
-  + Stroll is not WYSIWYG. This is bad. Also it uses some kind of wiki markup language, which
-    might be clunky compared to org-mode and markdown. Same holds for easy editing.
+- Easy adding :: This is about the quickness and cognitive burden of adding a new note.
+  + Stroll is not WYSIWYG. This is bad. Also, it uses some kind of wiki markup language, which
+    might be clunky compared to org-mode and markdown. The same holds for easy editing.
 - Transferable :: it means how easy and quickly you can transfer your notes from this system to
-  anothre system you might want to use.
+  another system you might want to use.
   + Roam exports markdown, which is great. Don't know how easy it is to use in other markdown
     zettelkasten programs though - perhaps links or something else won't work. Also, AFAIK
-    images aren't downloaded, only image links are saved. Also even though Roam's creator
+    images aren't downloaded, only image links are saved. Also, even though Roam's creator
     promises you'll always be able to export your stuff, who knows if it'll always be true.
-  + Org-mode is plaintext which is good. It's used by emacs only which is bad. Pandoc can
+  + Org-mode is plaintext, which is good. It's used by emacs only, which is bad. Pandoc can
     convert it, but maybe it will be buggy.
   + Stroll saves notes as some wiki markup language. Needs work to convert to markdown or to
     another format.
-- Will work :: this is something like expected time during which the system will continue
+- Will work :: this is something like the expected time during which the system will continue
   working, i.e. if it's a web service, it won't close, if it's a desktop program which needs
   maintenance, it will continue to be maintained, and if it's a paper system, it won't get
   stolen or burned.
 - Doesn't force same pose :: this is once again about me getting back pain from sitting behind a
   table.
-  + Org-roam's sidebar for showing backlinks sucks, so without a lot of tinkering I can only
+  + Org-roam's sidebar for showing backlinks sucks, so without a lot of tinkering, I can only
     use it comfortably on a big screen, which forces me to sit at my desk rather than move
     around my home with my laptop.
 - Can use everywhere always :: whether I can take the system with me everywhere I go.
@@ -189,8 +189,8 @@ for some column, I take its middle point. Here's the result:
 - Org-roam :: 3.5
 - Stroll :: 5
 
-This suggests that Roam is great and I should give it another chance. Hmm. But for some reason
-I want to give org-roam another chance more, because yay free open source software yay
+This suggests that Roam is great, and I should give it another chance. Hmm. But for some reason,
+I want to give org-roam another chance more because yay free open source software yay
 emacs yay customizability. Well, we'll see how it goes.
 
 I hope you find some of these considerations useful for figuring out whether you need a
