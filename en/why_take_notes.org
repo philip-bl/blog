@@ -192,3 +192,6 @@ for some column, I take its middle point. Here's the result:
 This suggests that Roam is great and I should give it another chance. Hmm. But for some reason
 I want to give org-roam another chance more, because yay free open source software yay
 emacs yay customizability. Well, we'll see how it goes.
+
+I hope you find some of these considerations useful for figuring out whether you need a
+notetaking system and how to choose one.
