@@ -24,7 +24,11 @@ from /low/ to /very high/.
     my working memory in the form of paper, whiteboard, or a computer with a text editor. For
     some magical reason ("habits" and absence distractions are my best hypotheses)
     this works much better for me with
-    paper than with a computer. If I need to think about something complicated, I put a sheet
+    paper than with a computer. My best hypotheses for why this is the case are: due to habits
+    I am used to thinking on paper and not getting distracted, and due to other habits I get
+    distracted all the time when using computer or phone; writing on paper is slower than
+    typing, so this forces my mind to slow down.
+    If I need to think about something complicated, I put a sheet
     of paper on the table, take a pencil and start writing my thoughts. Notice that it's not
     necessary to even keep notes for this effect to work. Although knowing that the note will
     go into my knowledge base gives me motivation to write it. /importance: very high/
@@ -66,18 +70,65 @@ from /low/ to /very high/.
   things which I need to do. But it's trivial to use google calendar or something like that for
   todos instead, so I am marking this as /importance: low/
 
-** Desired characteristics of a notetaking system
+** Desiderata for a notetaking system
 
-Here I write a list of characteristics I want a notetaking system to have and rate them as low importance,
-medium importance, high importance, or unknown importance. These are useful to
-compare different notetaking systems.
+Here I list characteristics I want a notetaking system to have. They are useful to
+compare different notetaking systems. They aren't all absolutely critical.
 
 - Given a topic, it should be easy to look up notes about it.
-- 
+- Quick adding new notes and editing existing notes
+- Low cognitive burden of using the system. After getting used to it, at least.
+- Future-proof. It should be easy to switch from this system to another one and keep the
+  notes. The system shouldn't suddenly stop working (for example because the creator
+  went bankrupt). The system should work on different platforms I might use in the future
+  (e.g. on Windows computers with restricted software installation if my future employer forces
+  me to use one).
+- I should be able to take the system with me. So, having an Android program would be nice.
+- I should be able to use it comfortably not only behind my table (for example if it's
+  difficult to use the notetaking program on small laptop screen), but just about
+  anywhere. This characteristic is probably not important for many people, but for me sitting all day long
+  behind a table causes back pain.
+- Using the system should feel nice.
+- It should be easy to put brain dump notes in the system if I decide that I want them there.
+- If it's software, it should be customizable.
+- If it's software, it should be unable or unlikely to access my system, other files, etc. and
+  use them in ways which are bad for me.
+- Other people shouldn't be able or should be unlikely to read my notes stored in the system.
 
-| System | Facilitates thoughts by magic | Facilitates thoughts by linking | Easy lookup | Easy adding | Easy editing | Transferable | Will work | Forces same pose | Can use everywhere always | Facilitates writing |
-|--------+-------------------------------+---------------------------------+-------------+-------------+--------------+--------------+-----------+------------------+---------------------------+---------------------|
-| blah   |                               |                                 |             |             |              |              |           |                  |                           |                     |
-|        |                               |                                 |             |             |              |              |           |                  |                           |                     |
-|        |                               |                                 |             |             |              |              |           |                  |                           |                     |
-|        |                               |                                 |             |             |              |              |           |                  |                           |                     |
+** Notetaking systems I might want to try and what characteristics they have
+
+*** The table
+
+Here I list some notetaking systems I want to try (or have already tried but want to give them
+another chance) as rows of a table. Columns are desiderata. The desiderata are mentioned in the previous section but they
+don't map one to one and not all of those desiderata are present as columns here. I rate each
+desideratum from + (high importance) to 0 (medium importance) to - (low importance). Each cell contains a rating of how
+well the notetaking system satisfies the desideratum from -- to 0 to ++ or it contains a range like
+[-, ++] if I am not sure and I think it can be anywhere from - (inclusive) to ++ (inclusive).
+
+
+| System             | Facilitates thoughts by magic 1 | Facilitates thoughts by linking 0 | Quick lookup 0 | Quick adding 1 | Quick editing 0 | Transferable 0 | Will work 0 | Forces same pose 1 | Can use everywhere always 0 | Facilitates writing for public -1 |
+|--------------------+---------------------------------+-----------------------------------+----------------+----------------+-----------------+----------------+-------------+--------------------+-----------------------------+-----------------------------------|
+| Paper zettelkasten |                                 |                                   |                |                |                 |                |             |                    |                             |                                   |
+| Roam               |                                 |                                   |                |                |                 |                |             |                    |                             |                                   |
+| [[https://github.com/jethrokuan/org-roam][org-roam]]           |                                 |                                   |                |                |                 |                |             |                    |                             |                                   |
+|                    |                                 |                                   |                |                |                 |                |             |                    |                             |                                   |
+
+*** Why these systems have these ratings
+- Transferable :: it means how easy and quickly you can transfer your notes from this system to
+  anothre system you might want to use. Easiest with markdown, slightly more difficult with
+  org-mode, much more difficult with paper or proprietary systems.
+- Will work :: this is something like expected time during which the system will continue
+  working, i.e. if it's a web service, it won't close, if it's a desktop program which needs
+  maintenance, it will continue to be maintained, and if it's a paper system, it won't get
+  stolen or burned.
+- Forces same pose :: this is once again about me getting back pain from sitting behind a
+  table.
+  + Org-roam's sidebar for showing backlinks sucks, so without a lot of tinkering I can only
+    use it comfortably on a big screen, which forces me to sit at my desk rather than move
+    around my home with my laptop.
+- Can use everywhere always :: whether I can take the system with me everywhere I go.
+  + Paper notebook is easy to take on a walk but I won't be able to take all my notebooks when
+    I have many.
+  + org-roam will never have a mobile app.
+  + Roam requires internet access but might get a mobile app.
